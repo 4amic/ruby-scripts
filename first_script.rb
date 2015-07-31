@@ -1,0 +1,1 @@
+puts "Heck yeah! My very first Ruby script!"
